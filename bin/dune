@@ -1,0 +1,3 @@
+(executable
+ (name kind2coq)
+ (public_name kind2coq.kind2coq))
